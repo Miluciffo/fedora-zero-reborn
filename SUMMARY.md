@@ -18,6 +18,7 @@
   * [Включаем дробное масштабирование](fedora-zero-reborn/v-samom-nachale-.../vklyuchaem-drobnoe-masshtabirovanie.md)
   * [Терминал. Начало ...](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../README.md)
     * [Включаем "шорткат" для Терминала](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../vklyuchaem-shortkat-dlya-terminala.md)
+    * [Устанавливаем консольный софт](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../ustanavlivaem-konsolnyi-soft.md)
 
 ***
 
