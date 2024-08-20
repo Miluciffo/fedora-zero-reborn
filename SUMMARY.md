@@ -16,7 +16,8 @@
   * [Установка кодеков](fedora-zero-reborn/v-samom-nachale-.../ustanovka-kodekov.md)
   * [Как примонтировать диск в систему](fedora-zero-reborn/v-samom-nachale-.../kak-primontirovat-disk-v-sistemu.md)
   * [Включаем дробное масштабирование](fedora-zero-reborn/v-samom-nachale-.../vklyuchaem-drobnoe-masshtabirovanie.md)
-  * [Терминал. Начало ...](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-....md)
+  * [Терминал. Начало ...](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../README.md)
+    * [Включаем "шорткат" для Терминала](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../vklyuchaem-shortkat-dlya-terminala.md)
 
 ***
 
