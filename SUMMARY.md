@@ -19,6 +19,7 @@
   * [Терминал. Начало ...](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../README.md)
     * [Включаем "шорткат" для Терминала](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../vklyuchaem-shortkat-dlya-terminala.md)
     * [Устанавливаем консольный софт](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../ustanavlivaem-konsolnyi-soft.md)
+    * [Консольные команды для GNU/Linux](fedora-zero-reborn/v-samom-nachale-.../terminal.-nachalo-.../konsolnye-komandy-dlya-gnu-linux.md)
 
 ***
 
